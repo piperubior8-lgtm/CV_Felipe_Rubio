@@ -1,12 +1,11 @@
-# CV_Example
-# Hoja de Vida
+# Hoja de vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+
+## Felipe Rubio
+**Profesión:** _Desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [piperubior8@gmail.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
@@ -17,13 +16,13 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2026)_
+- Tecnologo en Analisis y Desarrollo de software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Fluidez verbal en la docencia y capacitación**
+- **Creador de paginas web**
+- **Tramitador vehicular**
 
 ---
 
